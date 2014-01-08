@@ -1,11 +1,11 @@
 ## Interface: 50400
-## Version: 50400.2
+## Version: 50400.3
 ## Title: |cffc7c7cfv|rTidyZoning
 ## Notes: GC after zoning
-## Author: Drauer | github/ForgedAddons
+## Author: Drauer
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
+## X-GitHub: ForgedAddons/vTidyZoning
 
 externals\events.lua
-
 main.lua
